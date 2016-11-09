@@ -1,7 +1,7 @@
 # DoodleProtoype
 ## CMSC434 IA-08
 ### Daniel Cha
-Youtube Link:
+Youtube Link:https://www.youtube.com/watch?v=0ADrOeixI1Q
 
 DoodlePrototype is an app that allows the user to draw on a canvas and use multiple tools
 to enhance the brush or drawing space.
