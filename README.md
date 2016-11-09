@@ -18,3 +18,9 @@ The eraser icon on the bottom right corner will clear the canvas once the user d
 
 ## Additional Functionality
 The image icon button allows the user to select a photo from their library and use that as the background for the canvas.
+
+## References
+- http://sudhanshuvinodgupta.blogspot.com/2012/07/using-intentactionpick.html
+  - Used this source to figure out how to open the phones image gallery and obtain the image as a Bitmap
+- https://developer.android.com/reference/android/graphics/drawable/BitmapDrawable.html
+  - Used this source to find how to put a Bitmap and draw it on to the canvas
