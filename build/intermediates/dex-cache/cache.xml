@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_cd9aa84b3181a02caa3f7b884b155abd0b33a67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_aa96a6709f3571aeff1be092d74415db334aa204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_fb74ea8baeb8b44b2968dc5c1fd201267ce21bb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_23fa8d0dadf5c109d085dd17fb80236b14502ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_1467f855223f6121967ad53f25fa895ff17e42b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d5fb238ae9013f6f0184e9e1b5603347209eeef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_6ab56fda46cb6e594c5288962eee977a8313320a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_9e4076d28ef882eae96254de6db3678e24ae4a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_50e53aedadb45998ddfd12cb7f6946c97202223a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1c9f3268a236906db8e40f84466b7a18b3230b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_21f7b2903848f1d89c881d0b3d8984439ea6e70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b6019e608ffeca0ceccd01a675971b7c684c46e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_0aa225d3968a2075f1de6cf0a688e5b32a38fb19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c1d381147a14f2b554a7b16309c0927ee727568e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Daniel/Documents/cmsc436/DoddlePrototype/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_09457d6e9742e209dd8a678fffbf339476d7b2ca.jar" />
+    </item>
+
+</items>
